@@ -1,3 +1,4 @@
+import torch
 from src.model import get_model
 
 def test_model_output_shape():
